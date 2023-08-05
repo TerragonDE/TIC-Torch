@@ -22,4 +22,4 @@ raw/sea
 # Installation
 Just download this repository as a ZIP file and extract.
 
-Then run "jupyter lab" from terminal, open the .ipynb file, and run the script to test with all defaults.
+Then run "jupyter lab" from terminal, open the "Terragon-TIC-Torch.ipynb" file, and "run all cells" to test with all defaults.

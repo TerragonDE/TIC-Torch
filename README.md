@@ -18,3 +18,8 @@ raw/sea
 3. Run TIC-Torch to resize and create variations of the images to train the Neural Network.
 
 4. Run TIC-Torch to classify a new jpg.
+
+# Installation
+Just download this repository as a ZIP file and extract.
+
+Then run "jupyter lab" from terminal, open the .ipynb file, and run the script to test with all defaults.

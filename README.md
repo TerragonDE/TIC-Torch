@@ -23,3 +23,5 @@ raw/sea
 Just download this repository as a ZIP file and extract.
 
 Then run "jupyter lab" from terminal, open the "Terragon-TIC-Torch.ipynb" file, and "run all cells" to test with all defaults.
+
+To train with your own data, just delete all subfolders in the "raw" folder and replace them with your own images organised in subfolders named like the classes you want to classify. Then run all cells again (delete old "train" folder and "model.pt" files!)
